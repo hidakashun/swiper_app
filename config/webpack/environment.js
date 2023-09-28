@@ -7,6 +7,8 @@ environment.plugins.prepend(
   new webpack.ProvidePlugin({
     $: 'jquery/src/jquery',
     jQuery: 'jquery/src/jquery',
+    //Railsでスライドショーを動かしてみる
+    Swiper: 'swiper/swiper-bundle' //この行を追記
   })
 )
 

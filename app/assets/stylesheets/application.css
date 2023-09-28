@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+ /*Railsでスライドショーを動かしてみる_スタイルシートを編集する*/
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+:root {
+  --swiper-navigation-color: #ffffff;
+  --swiper-pagination-color: #ffffff;
+}
