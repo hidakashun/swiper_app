@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+自分の記録用
+１，jQueryを使用する_文字の色を変えてみる
+　yarn add jquery
+２，Railsでスライドショーを動かしてみる
+　yarn add swiper@9.4.1
